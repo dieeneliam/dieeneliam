@@ -1,9 +1,9 @@
 <h1 align="center">hi, I'm dieeneliam</h1>
 <h3 align="center">a fucking idiot from the netherlands</h3>
 
-- 🔭 I’m currently working on website [my website](dieeneliam.xyz)
+- 🔭 I’m currently working on website [my website](https://dieeneliam.xyz)
 
-- 🌱 I’m (trying) currently learning **python**
+- 🌱 I’m (trying) currently learning: **python**
 
 - 💬 Ask me about: **linux**
 
