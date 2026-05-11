@@ -1,7 +1,7 @@
-<h1 align="center">hi, I'm dieeneliam</h1>
+<h1 align="center">hi, I'm liam</h1>
 <h3 align="center">a fucking idiot from the netherlands</h3>
 
-- 🔭 I’m currently working on website [my website](https://dieeneliam.xyz)
+- 🔭 I’m currently working on website [my website](https://dieeneliam.n;)
 
 - 🌱 I’m (trying) currently learning: **python**
 
